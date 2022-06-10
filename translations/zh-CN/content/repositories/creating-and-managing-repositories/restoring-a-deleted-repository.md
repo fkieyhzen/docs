@@ -1,7 +1,11 @@
 ---
 title: 恢复已删除的仓库
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 intro: '{% ifversion ghes or ghae %}企业所有者{% elsif fpt or ghec %}您{% endif %} 可以还原某些已删除的存储库以恢复其内容。'
+=======
+intro: '{% ifversion ghes or ghae %}An enterprise owner{% elsif fpt or ghec %}You{% endif %} can restore some deleted repositories to recover their contents.'
+>>>>>>> Stashed changes
 =======
 intro: '{% ifversion ghes or ghae %}An enterprise owner{% elsif fpt or ghec %}You{% endif %} can restore some deleted repositories to recover their contents.'
 >>>>>>> Stashed changes
@@ -23,7 +27,11 @@ shortTitle: 恢复已删除的仓库
 {% ifversion ghes or ghae %}
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 通常，{% ifversion ghes %}{% data variables.product.product_location %}上{% endif %}已删除的存储库可以在 90 天内由企业所有者恢复。 更多信息请参阅“[恢复删除的仓库](/admin/user-management/managing-repositories-in-your-enterprise/restoring-a-deleted-repository)”。
+=======
+Usually, deleted repositories can be restored within 90 days by an enterprise owner{% ifversion ghes %} on {% data variables.product.product_location %}{% endif %}. 更多信息请参阅“[恢复删除的仓库](/admin/user-management/managing-repositories-in-your-enterprise/restoring-a-deleted-repository)”。
+>>>>>>> Stashed changes
 =======
 Usually, deleted repositories can be restored within 90 days by an enterprise owner{% ifversion ghes %} on {% data variables.product.product_location %}{% endif %}. 更多信息请参阅“[恢复删除的仓库](/admin/user-management/managing-repositories-in-your-enterprise/restoring-a-deleted-repository)”。
 >>>>>>> Stashed changes

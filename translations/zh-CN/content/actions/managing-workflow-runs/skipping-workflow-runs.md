@@ -27,7 +27,11 @@ shortTitle: 跳过工作流程运行
 * `[actions skip]`
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 或者，您可以用两个空行后跟以下任一行结束提交消息：
+=======
+Alternatively, you can end the commit message with two empty lines followed by either:
+>>>>>>> Stashed changes
 =======
 Alternatively, you can end the commit message with two empty lines followed by either:
 >>>>>>> Stashed changes

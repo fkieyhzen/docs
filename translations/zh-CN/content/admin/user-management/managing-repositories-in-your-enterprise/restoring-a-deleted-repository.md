@@ -1,7 +1,11 @@
 ---
 title: 恢复已删除的仓库
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 intro: 您可以恢复已删除的仓库来恢复其内容。
+=======
+intro: You can restore deleted repositories to recover their contents.
+>>>>>>> Stashed changes
 =======
 intro: You can restore deleted repositories to recover their contents.
 >>>>>>> Stashed changes

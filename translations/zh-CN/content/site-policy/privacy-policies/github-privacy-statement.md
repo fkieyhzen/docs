@@ -318,7 +318,11 @@ CCPA 为加州居民提供关于其个人信息的某些权利。 要提交基�
 最后，您有权在收集个人信息时或之前收到有关我们做法的通知。
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 此外，根据《加利福尼亚州民法典》第 1798.83 条（也称为“闪耀之光”法律），出于个人、家族或家庭目的向与该个人建立业务关系的企业提供个人信息的加利福尼亚州居民（“加州客户”），可以要求提供有关该企业是否已出于第三方的直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会向任何第三方披露个人信息，以用于本法规定的直接营销目的。 加州客户可以通过发送电子邮件到 **(privacy [at] github [dot] com)**索取有关我们遵守本法律的更多信息。 请注意，企业每年必须回复每位加州客户的一个请求，并且可能不需要回复通过指定电子邮件地址以外的方式提出的请求。
+=======
+此外，根据《加利福尼亚州民法典》第 1798.83 条（也称为“闪耀之光”法律），出于个人、家族或家庭目的向与该个人建立业务关系的企业提供个人信息的加利福尼亚州居民（“加州客户”），可以要求提供有关该企业是否已出于第三方的直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会向任何第三方披露个人信息，以用于本法规定的直接营销目的。 加州客户可以通过发送电子邮件到 **(privacy [at] github [dot] com)**索取有关我们遵守本法律的更多信息。 Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
+>>>>>>> Stashed changes
 =======
 此外，根据《加利福尼亚州民法典》第 1798.83 条（也称为“闪耀之光”法律），出于个人、家族或家庭目的向与该个人建立业务关系的企业提供个人信息的加利福尼亚州居民（“加州客户”），可以要求提供有关该企业是否已出于第三方的直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会向任何第三方披露个人信息，以用于本法规定的直接营销目的。 加州客户可以通过发送电子邮件到 **(privacy [at] github [dot] com)**索取有关我们遵守本法律的更多信息。 Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
 >>>>>>> Stashed changes
