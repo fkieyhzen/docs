@@ -1,6 +1,10 @@
 ---
 title: 恢复已删除的仓库
+<<<<<<< Updated upstream
 intro: 您可以恢复已删除的仓库来恢复其内容。
+=======
+intro: You can restore deleted repositories to recover their contents.
+>>>>>>> Stashed changes
 permissions: Enterprise owners can restore a deleted repository.
 versions:
   ghes: '*'

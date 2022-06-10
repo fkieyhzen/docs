@@ -317,6 +317,10 @@ CCPA 为加州居民提供关于其个人信息的某些权利。 要提交基�
 您可以书面或通过授权书指定授权代理人代表您提出请求，以行使您在 CCPA 下的权利。 在接受代理商的此类请求之前，我们将要求代理商提供您授权其代表您行事的证明，并且我们可能需要您直接向我们验证您的身份。 此外，要提供或删除特定的个人信息，我们需要在法律要求的确定程度上验证您的身份。 我们将通过要求您从与您的帐户关联的电子邮件地址提交请求，或要求您提供验证帐户所需的信息，以验证您的请求。 [请注意，您可以在 GitHub 帐户中使用双因素身份验证。](/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication)  
 最后，您有权在收集个人信息时或之前收到有关我们做法的通知。
 
+<<<<<<< Updated upstream
 此外，根据《加利福尼亚州民法典》第 1798.83 条（也称为“闪耀之光”法律），出于个人、家族或家庭目的向与该个人建立业务关系的企业提供个人信息的加利福尼亚州居民（“加州客户”），可以要求提供有关该企业是否已出于第三方的直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会向任何第三方披露个人信息，以用于本法规定的直接营销目的。 加州客户可以通过发送电子邮件到 **(privacy [at] github [dot] com)**索取有关我们遵守本法律的更多信息。 请注意，企业每年必须回复每位加州客户的一个请求，并且可能不需要回复通过指定电子邮件地址以外的方式提出的请求。
+=======
+此外，根据《加利福尼亚州民法典》第 1798.83 条（也称为“闪耀之光”法律），出于个人、家族或家庭目的向与该个人建立业务关系的企业提供个人信息的加利福尼亚州居民（“加州客户”），可以要求提供有关该企业是否已出于第三方的直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会向任何第三方披露个人信息，以用于本法规定的直接营销目的。 加州客户可以通过发送电子邮件到 **(privacy [at] github [dot] com)**索取有关我们遵守本法律的更多信息。 Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
+>>>>>>> Stashed changes
 
 根据《加利福尼亚州商业和职业法典》第 22581 条，未满 18 周岁的加利福尼亚州居民是在线网站、服务或应用程序的注册用户，他们有权删除、请求和获取他们公开发布的内容或信息。 要删除您公开发布的内容或信息， [请提交私人信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送到 [GitHub 支持](https://support.github.com/contact)。 请注意，您的请求并不能保证完全或全面删除在线发布的内容或信息，并且在某些情况下，法律可能不允许或要求删除。 如果您对我们对加州居民的隐私惯例有任何疑问，请通过我们的[联系表格](https://support.github.com/contact?tags=docs-policy)与我们联系。
